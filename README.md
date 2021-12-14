@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charlotte  Wellington
 - 👀 I’m interested in designing websites
-- 🌱 I’m currently learning Bsc. Information Technology
+- 🌱 I’m currently learning Bsc. Information Technology and Java programming language
 - 💞️ I’m looking to collaborate on bigger website projects
 - 📫 How to reach me charlottenaaodarleywellington@gmail.com
 
