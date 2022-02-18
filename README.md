@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charlotte  Wellington
 - 👀 I’m interested in designing websites
-- 🌱 I’m currently reading a  Bsc. Information Technology at the University of Ghana  and  I am currently studying Java programming language
+- 🌱 I’m currently reading Bsc. Information Technology at the University of Ghana  and  I am currently studying Java programming language
 - 💞️ I’m looking to collaborate on bigger website projects
 - 📫 How to reach me wellingtoncharlottenaaodarley@gmail.com
 - I am currently studying git and github
