@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bigger website projects
 - 📫 How to reach me wellingtoncharlottenaaodarley@gmail.com
 - I am currently studying git and github
--  am also studying Java
+-  I am also studying Java
 
 <!---
 CharlyWells/CharlyWells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
